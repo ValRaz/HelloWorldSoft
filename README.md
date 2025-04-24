@@ -16,6 +16,5 @@ The purpose of this program is to demonstrate good programming and documentation
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Markdown Template](https://byui-cse.github.io/cse310-course/modules/psp/README.md)
 * [Python Release](https://www.python.org/downloads/release/python-3133/)
