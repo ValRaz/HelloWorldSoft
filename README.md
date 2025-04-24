@@ -4,9 +4,7 @@ This is a basic Hello World python program adjusted to interact with the user. T
 
 The purpose of this program is to demonstrate good programming and documentation practice.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=x5UT3Q-JV8c)
 
 # Development Environment
 
